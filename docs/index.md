@@ -28,4 +28,4 @@ CSA (Certified SOC Analyst) | |
 
 ### But why are you doing this?
 
-EC-Council have some issues that are documented here
+EC-Council have some issues that are documented well [here](https://attrition.org/errata/charlatan/ec-council/) so I am not going to repeat their fantastic work.
